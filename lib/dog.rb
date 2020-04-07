@@ -4,7 +4,7 @@ attr_accessor :name, :breed
 attr_reader :id 
 
 #initialize method 
-def initialize (id=null, name, breed)
+def initialize (id=nil, name, breed)
   @id = id
   @name = name
   @breed = breed
