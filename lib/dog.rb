@@ -11,5 +11,5 @@ end
 
 #create table 
 def self.create_table #class method
-
+  createe
 end
