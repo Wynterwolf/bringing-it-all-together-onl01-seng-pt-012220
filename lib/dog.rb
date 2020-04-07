@@ -1,7 +1,7 @@
 class Dog
 
 attr_accessor :name, :breed
-att_reader :id 
+attr_reader :id 
 
 #initialize method 
 def initialize (id=null, name, breed)
